@@ -1,6 +1,6 @@
 ---
-# MOVED FROM GITEA
-Due to the following reasons: Gitea is slow and downloads after some time slow down to kb/s
+MOVED FROM GITEA
+# We have moved to github due to gitea slowing down downloads and ping is so bad that you get error 503.
 ---
 
 # Netboot+
