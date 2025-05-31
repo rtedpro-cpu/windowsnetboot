@@ -1,5 +1,5 @@
 ---
-We have moved to github due to gitea slowing down downloads and ping is so bad that you get error 503.
+moved to github due to gitea slowing down downloads and ping is so bad that you get error 503.
 ---
 
 # Netboot+
