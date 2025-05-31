@@ -20,3 +20,6 @@ How to boot manually using IPXE
 ```bash
 boot https://tinyurl.com/winbootpe
 ```
+
+
+Or boot using the iso in the releases tab (starts from b2)
