@@ -13,3 +13,10 @@ Netboot+ aims to add cloud-hosted windows images for user to install without nee
 **+** Community Images
 
 **+** Automated installer
+
+
+
+How to boot manually using IPXE
+```bash
+boot https://tinyurl.com/winbootpe
+```
