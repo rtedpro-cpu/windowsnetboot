@@ -13,8 +13,23 @@ Netboot+ aims to add cloud-hosted windows images for user to install without nee
 
 
 How to boot manually using IPXE
+Navigate to IPXE Shell in Netboot.xyz
+Type the following:
+```bash
+dhcp
+```
+If you are using dhcp then run the following ^^
+
+If you are using static refer to https://netboot.xyz/docs/booting/ipxe
+
+After that run
 ```bash
 boot https://tinyurl.com/winbootpe
+```
+
+If that doesn't work then run
+```bash
+chain --autofree https://github.com/rtedpro-cpu/windowsnetboot/raw/refs/heads/main/release/custom/boot.ipxe
 ```
 
 
