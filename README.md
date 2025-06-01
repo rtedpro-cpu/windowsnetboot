@@ -68,7 +68,6 @@ The following available share names are:
 
 
 ```bash
-http://boot.cruizernw.com.tr/ - x64
 http://boot.cruizernw.com.tr/ - Win10
 http://boot.cruizernw.com.tr/ - Win11
 ```
