@@ -43,9 +43,10 @@ after that you can enter in one of these mirrors.
 ```bash
 45.11.189.160 - France, hwhost.fr
 23.109.49.148 - Netherlands, Nodecraft
+187.33.151.164 - Spain, clouding.io
 ```
 
-Please use the France one if you want Windows 11.
+Please use the France one or Spain one if you want Windows 11.
 
 The following available share names are:
 
@@ -53,6 +54,8 @@ The following available share names are:
 45.11.189.160 - "win" for Windows 10 LTSC x64
 45.11.189.160 - "win11" for Windows 11 LTSC x64
 23.109.48.148 - "win" for Windows 10 LTSC x64
+187.33.151.164 - "win" for Windows 10 LTSC x64
+187.33.151.164 - "win" for Windows 11 LTSC x64
 ```
 
 --------------------------------------------
