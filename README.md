@@ -67,5 +67,5 @@ The following available share names are:
 
 
 ```bash
-https://cloud.cruizernw.com.tr/ - (server2019, server2025, win10, win11)
+cloud.cruizernw.com.tr - (server2019, server2025, win10, win11)
 ```
