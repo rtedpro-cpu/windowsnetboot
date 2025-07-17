@@ -32,7 +32,7 @@ If you use **Static**, configure the Static IP Config and DNS. The timezone serv
 After that, type in one of the IPs/Domains of the mirrors
 
 ```bash
-161.97.166.249 - Images: win10, server2022
+161.97.166.249 - possibly location here
 ```
 
 Then you will be prompted to enter a mirror/share name, choose one of these.
