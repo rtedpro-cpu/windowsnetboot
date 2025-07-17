@@ -22,7 +22,7 @@ The WinPE ISO is about ~300 MB in size.
 
 Once booted in **Windows Netboot** installer,
 
-a window with the name "**PE Network** will appear.
+a window with the name **PE Network** will appear.
 
 If you use **DHCP**, click on OK.
 
