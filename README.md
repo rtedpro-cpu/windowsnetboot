@@ -32,7 +32,7 @@ If you use **Static**, configure the Static IP Config and DNS. The timezone serv
 After that, type in one of the IPs/Domains of the mirrors
 
 ```bash
-161.97.166.249 - possibly location here
+161.97.166.249 - Germany
 ```
 
 Then you will be prompted to enter a mirror/share name, choose one of these.
