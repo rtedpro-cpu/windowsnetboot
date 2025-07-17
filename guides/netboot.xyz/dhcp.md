@@ -6,7 +6,7 @@ go to the following option.
 IPXE Shell
 ```
 
-In the shell, enter the following lines.
+In the shell, enter the following line.
 
 ```bash
 dhcp
