@@ -3,4 +3,4 @@ Select the way **your ISP** configures IPs
 
 [DHCP]()
 
-[Static]()
+[Static](https://github.com/rtedpro-cpu/windowsnetboot/blob/main/guides/netboot.xyz/static.md)
