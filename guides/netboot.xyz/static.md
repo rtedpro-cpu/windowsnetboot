@@ -17,6 +17,7 @@ ifopen net0
 ```
 
 Replace anything in <> with the config provided by **your ISP**.
+
 If you possibly have multiple network interfaces, you may be required to change the number in "**net<number>**"
 
 
