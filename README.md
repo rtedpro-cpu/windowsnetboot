@@ -20,7 +20,7 @@ we offer 2 ways to do it.
 The WinPE ISO is about ~300 MB in size.
 
 
-Look for builds with an iso or starting with **Build**
+Look for builds with an iso or starting with **Build** if you wanna boot from the ISO.
 
 
 
