@@ -37,6 +37,7 @@ After that, type in one of the IPs/Domains of the mirrors
 
 ```bash
 161.97.166.249 - Germany
+152.53.211.143 - United States of America
 ```
 
 Then you will be prompted to enter a mirror/share name, choose one of these.
