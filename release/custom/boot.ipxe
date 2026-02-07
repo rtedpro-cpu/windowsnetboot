@@ -11,5 +11,5 @@ initrd -n bootmgr     https://github.com/rtedpro-cpu/windowsnetboot/raw/refs/hea
 initrd -n bootmgr.efi https://github.com/rtedpro-cpu/windowsnetboot/raw/refs/heads/main/release/custom/files/x64/bootmgr.efi   bootmgr.efi ||      
 initrd -n bcd         https://github.com/rtedpro-cpu/windowsnetboot/raw/refs/heads/main/release/custom/files/x64/Boot/BCD      bcd ||
 initrd -n boot.sdi    https://github.com/rtedpro-cpu/windowsnetboot/raw/refs/heads/main/release/custom/files/x64/Boot/boot.sdi boot.sdi ||
-initrd -n boot.wim    https://github.com/rtedpro-cpu/windowsnetboot/releases/download/b4/boot.wim boot.wim
+initrd -n boot.wim    https://github.com/rtedpro-cpu/windowsnetboot/releases/download/b5-beta/boot.wim boot.wim
 boot
