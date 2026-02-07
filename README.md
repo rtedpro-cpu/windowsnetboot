@@ -26,6 +26,8 @@ Look for builds with an iso or starting with **Build** if you wanna boot from th
 
 Once booted in **Windows Netboot** installer,
 
+click on **Open PE Network**
+
 a window with the name **PE Network** will appear.
 
 If you use **DHCP**, click on OK.
@@ -36,20 +38,26 @@ If you use **Static**, configure the Static IP Config and DNS. The timezone serv
 After that, type in one of the IPs/Domains of the mirrors
 
 ```bash
-161.97.166.249 - Germany
-152.53.211.143 - United States of America
+45.202.102.15 - United States
 ```
 
 Then you will be prompted to enter a mirror/share name, choose one of these.
 
 ```bash
-win10 - Windows 10 LTSC 2021 x64
-win11 - Windows 11 LTSC 24H2 x64
-server2022 - Windows Server 2022 x64
+win10ltsc - Windows 10 LTSC 2021 x64
 ```
 
 
-After entering, the windows setup will appear and continue usually.
+After entering, click next and click on the button to map **F:**.
+
+If required, enter a username and a password. 
+
+In this case it is not required.
+
+
+It should now suceed and click OK on the popup and continue to the next step.
+
+Depending if it suceeded or errored, you can now click on the button to open Windows Setup.
 
 
 
