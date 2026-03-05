@@ -52,7 +52,7 @@ After entering, click next and click on the button to map **F:**.
 
 If required, enter a username and a password. 
 
-In this case it is not required.
+In this case, enter **smbuser** for these project provided mirrors.
 
 
 It should now suceed and click OK on the popup and continue to the next step.
