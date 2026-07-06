@@ -38,13 +38,13 @@ If you use **Static**, configure the Static IP Config and DNS. The timezone serv
 After that, type in one of the IPs/Domains of the mirrors
 
 ```bash
-45.202.102.15 - United States
+none so far which are online sadly
 ```
 
 Then you will be prompted to enter a mirror/share name, choose one of these.
 
 ```bash
-win10ltsc - Windows 10 LTSC 2021 x64
+depends on mirror, no publicly available mirrors.
 ```
 
 
