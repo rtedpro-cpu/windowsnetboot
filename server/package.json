@@ -1,0 +1,12 @@
+{
+  "name": "smb-ws-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "smb-ws-server.js",
+  "scripts": {
+    "start": "node smb-ws-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
