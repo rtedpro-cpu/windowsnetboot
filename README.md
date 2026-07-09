@@ -38,21 +38,19 @@ If you use **Static**, configure the Static IP Config and DNS. The timezone serv
 After that, type in one of the IPs/Domains of the mirrors
 
 ```bash
-none so far which are online sadly
+Coming Soon, for now you can selfhost using the server/ folder
 ```
 
 Then you will be prompted to enter a mirror/share name, choose one of these.
 
 ```bash
-depends on mirror, no publicly available mirrors.
+Coming Soon, for now you can selfhost using the server/ folder
 ```
 
 
 After entering, click next and click on the button to map **F:**.
 
-If required, enter a username and a password. 
-
-In this case, enter **smbuser** for these project provided mirrors.
+If required, enter a password. 
 
 
 It should now suceed and click OK on the popup and continue to the next step.
